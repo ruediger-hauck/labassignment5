@@ -29,7 +29,7 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
     
     c. Click Invite a collaborator
     
-    ![Inviting a Collaborator](/images/invitecollab.png)
+    ![Inviting a Collaborator](/images/Invitecollab.png)
     
     d. Use your partner's github account name to add them
     
