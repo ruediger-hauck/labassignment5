@@ -11,13 +11,12 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 
 ## Getting Started
 
-1. Pair up within your groups
-
-2. Begin having one member in each pair fork **this** repository to their github account
+1. Begin having one member in each pair fork **this** repository to their github account
+    a. **Note**: There may be a limit on how many collaborators can be added. *In this case, split up into a group of 3 and a group of 2.* 
 
 ![Forking A Repo](/images/forkrepo.png)
 
-3. The member that forked this repository should now add the second member as a collaborator on the repository 
+2. The member that forked this repository should now add the second member as a collaborator on the repository 
 
     a. Click Settings
     
@@ -33,12 +32,12 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
     
     d. Use your partner's github account name to add them
     
-4. Use the url for the repository and `git remote` to set up a remote connection to your newly forked repository locally (or on ASC) at the command line.
+3. Use the url for the repository and `git remote` to set up a remote connection to your newly forked repository locally (or on ASC) at the command line.
 
 ## Collaborative Coding
 
-5. Find and navigate to your assigned group's directory (i.e., "room_1")in the repository and examine the contents. You should find scripts that are jumbled and/or missing some important parts. 
+4. Find and navigate to your assigned group's directory (i.e., "room_1")in the repository and examine the contents. You should find scripts that are jumbled and/or missing some important parts. 
 
-6. You and your partner will work together to write a single script that performs the action listed in the README file (also in your group's directory), using the provided unfinished/incorrect scripts. 
+5. You and your partner will work together to write a single script that performs the action listed in the README file (also in your group's directory), using the provided unfinished/incorrect scripts. 
 
-7. Each partner must make commits to the collaborative repository for assignment credit. The goal is to work together to pull together a functional script to carry out an action, but do not worry if you cannot get your code to run properly - focus on adding, committing, and pushing changes to your collaborative repository in a responsible way. 
+6. Each partner must make commits to the collaborative repository for assignment credit. The goal is to work together to pull together a functional script to carry out an action, but do not worry if you cannot get your code to run properly - focus on adding, committing, and pushing changes to your collaborative repository in a responsible way. 
