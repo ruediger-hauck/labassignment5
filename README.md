@@ -15,10 +15,15 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 
 2. Begin having one member in each pair fork **this** repository to their github account
 
+![Forking A Repo](/images/forkrepo.png)
+
 3. The member that forked this repository should now add the second member as a collaborator on the repository 
     a. Click Settings
+    ![Settings Menu](/images/settings.png)
     b. Click Manage access
+    ![Manage Access](/images/manageaccess.png)
     c. Click Invite a collaborator
+    ![Inviting a Collaborator](/images/invitecollab.png)
     d. Use your partner's github account name to add them
     
 4. Use `git clone` and `git remote` to set up a remote connection to your newly forked repository locally (or on ASC)
