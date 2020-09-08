@@ -46,7 +46,7 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 
 7. Upload the following to canvas:
 
-    a. Respond to the following reflection question and upload your response to canvas in the file **NAME_reflection.txt**
+    a. Respond to the following reflection question and upload your response to canvas in a file called **NAME_reflection.txt**
     
     *Reflect on how you currently manage your documents and code, particularly content associated with publishable work. Would it stand up to a reproducibility     test? Why do you think it is important (or not) to assess the reproducibility of your work?*
     
