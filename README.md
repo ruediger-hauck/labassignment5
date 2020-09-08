@@ -41,3 +41,14 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 5. You and your partner will work together to write a single script that performs the action listed in the README file (also in your group's directory), using the provided unfinished/incorrect scripts. 
 
 6. Each partner must make commits to the collaborative repository for assignment credit. The goal is to work together to pull together a functional script to carry out an action, but do not worry if you cannot get your code to run properly - focus on adding, committing, and pushing changes to your collaborative repository in a responsible way. 
+
+## Lab Submission
+
+7. Upload the following to canvas:
+
+    a. Respond to the following reflection question and upload your response to canvas in the file **NAME_reflection.txt**
+    
+    *Reflect on how you currently manage your documents and code, particularly content associated with publishable work. Would it stand up to a reproducibility     test? Why do you think it is important (or not) to assess the reproducibility of your work?*
+    
+    b. Paste a link to your collaborative repository for this lab into a file called **NAME_VCL.txt** along with redirected output from `git log`. 
+    
