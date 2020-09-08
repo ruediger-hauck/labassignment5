@@ -33,7 +33,9 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
     
     d. Use your partner's github account name to add them
     
-4. Use `git clone` and `git remote` to set up a remote connection to your newly forked repository locally (or on ASC)
+4. Use the url for the repository and `git remote` to set up a remote connection to your newly forked repository locally (or on ASC) at the command line.
+
+## Collaborative Coding
 
 5. Navigate to your group directory in the repository and examine the contents. You should find scripts that are jumbled and/or missing some important parts. You and your partner will work together to write a single script that performs the action in your group directory README, using these partial scripts. 
 
