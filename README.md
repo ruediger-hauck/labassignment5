@@ -49,7 +49,7 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 
     a. Respond to the following reflection question and upload your response to canvas in a file called **NAME_reflection.txt**
     
-    *Reflect on how you currently manage your documents and code, particularly content associated with publishable work. Would it stand up to a reproducibility     test? Why do you think it is important (or not) to assess the reproducibility of your work?*
+    *Reflect on how you currently manage your documents and code, particularly content associated with publishable work. Would it stand up to a reproducibility     test? Why do you think it is important (or not) to assess the reproducibility scientific work?*
     
     b. Paste a link to your collaborative repository for this lab into a file called **NAME_VCL.txt** along with redirected output from `git log`. 
     
