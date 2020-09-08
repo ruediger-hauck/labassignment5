@@ -37,6 +37,8 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 
 ## Collaborative Coding
 
-5. Navigate to your group directory in the repository and examine the contents. You should find scripts that are jumbled and/or missing some important parts. You and your partner will work together to write a single script that performs the action in your group directory README, using these partial scripts. 
+5. Find and navigate to your assigned group's directory (i.e., "room_1")in the repository and examine the contents. You should find scripts that are jumbled and/or missing some important parts. 
 
-6. Each partner must make commits to the collaborative repository for assignment credit. The goal is to work together to pull together a functional script to carry out an action, but do not worry if you cannot get your code to run properly - focus on adding, committing, and pushing changes to your collaborative repository in a responsible way. 
+6. You and your partner will work together to write a single script that performs the action listed in the README file (also in your group's directory), using the provided unfinished/incorrect scripts. 
+
+7. Each partner must make commits to the collaborative repository for assignment credit. The goal is to work together to pull together a functional script to carry out an action, but do not worry if you cannot get your code to run properly - focus on adding, committing, and pushing changes to your collaborative repository in a responsible way. 
