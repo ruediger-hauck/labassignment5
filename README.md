@@ -6,8 +6,8 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 
 - Applying version control software to track changes to code using git and github
 - Using remote repositories to share code and edits 
-- Working collaboratively, using git and github, to correct errors in code to make it functional 
-- Reflecting on how version control software contributes to reproducibility 
+- Working collaboratively, using git and github, to increase efficiency of the `reverse_complement.sh` script from Lab #2  
+- Reflecting on how version control software contributes to scientific reproducibility 
 
 ## Getting Started
 
@@ -29,11 +29,11 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
     
     ![Inviting a Collaborator](/images/Invitecollab.png)
     
-    D. Use your partner's github account name to add them
+    D. Use your partner's github account names to add them
         
-     **NOTE: There may be a limit on how many collaborators can be added. *In this case, split up into a group of 3 and a group of 2.***
     
-3. Use the url for the repository and `git remote` to set up a remote connection to your newly forked repository locally (or on ASC) at the command line.
+3. Use the url for the repository and `git clone` to set up a remote connection to your newly forked repository locally (or on ASC) at the command line.
+
 
 ## Collaborative Coding
 
