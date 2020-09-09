@@ -5,7 +5,7 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 ## Learning Objectives 
 
 - Use version control software (git) to track changes to code
-- Use git and Github to exercise collaborative best practices, by editing the reverse_complement.sh script from Lab #2 to increase programmatic efficiency with your group
+- Use git and Github to exercise collaborative best practices, by editing the rc.sh script from Week 6 to increase programmatic efficiency with your group
 - Use commands git pull and push to interface remote repositories from the command line
 - Reflect on how version control software contributes to scientific reproducibility
 
@@ -39,19 +39,19 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 
 ## Collaborative Coding
 
-4. Edit the script `rc.sh` (from Week 6 lectures) inside of your forked repository from your command line using git. **Remember, your group members are working on this same document.**
+4. Modify the script `rc.sh` (from Week 6 lectures) inside of your forked repository from your command line using git. **Remember, your group members are working on this same document.**
 
-5. You group's code should adhere the following (**Read to completion before editing**):
+5. You group's new script should adhere the following (**Read to completion before editing**):
 
     A. Replace the loop in the script with a one-liner that converts sequence string to the reverse complement of that sequence using the `rev` command
     
     B. Edit the `tr` command to be case-insensitive (can accept sequences in lower- or uppercase)
     
-    C. Remove any code that is no longer necessary to output the reverse complement of sequence string
+    C. Remove any code that is no longer necessary to output the reverse complement of a sequence string
     
-    D. Print a helpful message to users about what they must (or must not) provide to run the script if they don't provide a single argument when invoking the script. 
+    D. Print a single-line help message, instructing users about what they must provide with the script, if they don't provide a single argument when invoking the script. 
         
-      a. Use an `if` statement with the following conditionals at the start of your script to test for the number of arguments given: `if [ $# -lt 1 ] || [ $# -gt 1 ]`. 
+      a. Use an `if...else` statement with these conditionals `if [ $# -lt 1 ] || [ $# -gt 1 ]` at the start of your script to test for the number of arguments given. Remember to print only the help message if there is not a single argument given at the command line to run the script with. 
         
     E. Remove any echo statements that provide "sanity checks" (tells you that the code is behaving as expected). Redirect the reverse complement of the sequence string into a correctly formatted FASTA file named exactly as the input argument **but** with `rc.` appended to the beginning of the output filename. 
     
