@@ -55,9 +55,9 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
          
     * Remove any echo statements that provide "sanity checks" (tells you that the code is behaving as expected). Redirect the reverse complement of the sequence string into a correctly formatted FASTA file named exactly as the input argument **but** with `rc.` appended to the beginning of the output filename. 
     
-    * Name your new, efficient script `rev_comp.sh` (You should not edit the original script, as a best practice, in case you need to start over)
+    * Name your new, efficient script as `rev_comp.sh` (You should not edit the original script, as a best practice, in case you need to start over)
 
-6. Each group member should make commits to the collaborative repository for this assignment. The goal is to work together to pull together a functional script that creates a reverse complement FASTA files from a provided sequenc FASTA file, **but do not worry if you cannot get your code to run properly - focus on adding, committing, and pushing changes to your collaborative repository in a responsible way.** 
+6. Each group member should make commits to the collaborative repository for this assignment. The goal is to work together to pull together a functional script that creates a reverse complement FASTA file from a provided sequence FASTA file, **but do not worry if you cannot get your code to run properly - focus on adding, committing, and pushing changes to your collaborative repository in a responsible way.** 
 
 ## Lab Submission
 
