@@ -67,8 +67,8 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
     
     *Reflect on how you currently manage your documents and code, particularly content associated with publishable work. Would it stand up to a reproducibility     test? How do you think non-reproducibile research affects computational biology and bioinformatics? What about in your specific field of study*
     
-    B. Download a `.zip` file of your repository and upload it to canvas
+    B. Download a `.zip` file of your repository and upload it to canvas. **This is a group assignment, so only ONE group member needs to submit to canvas.** 
     
     ![Getting Repo.zip](/images/submit.png)
     
-    C. Use the text submission section on the assignment page to post a link to your Lab #4 repository hosted on Github
+    C. Use the text submission section on the assignment page to post a link to your Lab #4 repository hosted on Github. Again, only the single group member submitting the zipped repository needs to do this. 
