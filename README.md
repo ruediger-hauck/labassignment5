@@ -39,7 +39,7 @@ Github for Lab Assignment 4 (Week 7 - Version Control)
 
 ## Collaborative Coding
 
-4. Modify the script `rc.sh` (from Week 6 lectures) inside of your forked repository from your command line using git. **Remember, your group members are working on this same document.**
+4. Modify the script `rc.sh` (from Week 5 lectures) inside of your forked repository from your command line using git. **Remember, your group members are working on this same document.**
 
 5. You group's new script should adhere the following (**Read to completion before editing**):
 
