@@ -1,5 +1,5 @@
 # Lab Assignment 5
-Github for Lab Assignment 5 (Week 8 - Version Control)
+Github for Lab Assignment 5 (Week 7 - Version Control)
 
 
 ## Learning Objectives 
