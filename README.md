@@ -1,6 +1,7 @@
 # Lab Assignment 5
 Github for Lab Assignment 5 (Week 7 - Version Control)
 
+**Notice: The images say labassignment4, but for this semester, it is labassignment5 - just did not take new pictures**
 
 ## Learning Objectives 
 
