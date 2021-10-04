@@ -1,5 +1,7 @@
 #! /bin/bash
 
+#change RH
+
 #Sanity Check: Make sure a single file is given at command line; provide usage statement
 if [ $# -lt 1 ] || [ $# -gt 1 ];then
 echo "Usage: Please provide a single FASTA file at the command line"
