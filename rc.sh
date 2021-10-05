@@ -10,18 +10,21 @@ sequence=`grep -v ">" $1`
 echo "Name: $name"
 
 #calculate length of sequence
-len=${#sequence}
+#len=${#sequence}
 
-echo "Length: $len"
+#echo "Length: $len"
 
 #loop through sequence in reverse
-for (( i=$len; i>=0; i-- ))
-do
-    reverse="$reverse${sequence:$i:1}"
-done
+#for (( i=$len; i>=0; i-- ))
+#do
+#    reverse="$reverse${sequence:$i:1}"
+#done
 
-echo "$sequence
-$reverse
+#reverses the sequence; the echo is not shown on the screen but needed because "rev" accepts only files or standard input, but no variables
+reverse=`echo $sequence | rev`
+
+echo "forward: $sequence
+reverse: $reverse
 "
 
 #complement sequence
