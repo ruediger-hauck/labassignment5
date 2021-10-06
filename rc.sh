@@ -28,10 +28,11 @@ reverse: $reverse
 "
 
 #complement sequence
-rc=`echo $reverse | tr 'atcg' 'tagc'`
+rc=`echo $reverse | tr -c 'ATCGatcg' 'TAGCtagc'`
 
 echo "$rc
 "
 
-echo $name >$1.rc.txt
-echo $rc >>$1.rc.txt
+#These commands are no longer needed 
+#echo $name >$1.rc.txt
+#echo $rc >>$1.rc.txt
