@@ -30,8 +30,6 @@ reverse: $reverse
 #complement sequence
 rc=`echo $reverse | tr -c 'ATCGatcg' 'TAGCtagc'`
 
-echo "$rc
-"
 
 #These commands are no longer needed 
 #echo $name >$1.rc.txt
