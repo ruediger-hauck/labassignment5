@@ -1,5 +1,11 @@
 #! /bin/sh
 
+#help message when user does not specify single arguement FASTA file in the command line
+if [ $# -lt 1 ] || [ $# -gt 1 ]
+then
+echo "Usage: Please provide a single FASTA file at the command line"
+
+else
 #initialize variable
 reverse=""
 
@@ -28,10 +34,9 @@ reverse: $reverse
 "
 
 #complement sequence
-rc=`echo $reverse | tr 'atcg' 'tagc'`
+rc=`echo $reverse | tr -c 'ATCGatcg' 'TAGCtagc'`
+fi
 
-echo "$rc
-"
-
-echo $name >$1.rc.txt
-echo $rc >>$1.rc.txt
+#These commands are no longer needed 
+#echo $name >$1.rc.txt
+#echo $rc >>$1.rc.txt
