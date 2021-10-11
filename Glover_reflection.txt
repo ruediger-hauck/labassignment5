@@ -1,0 +1,3 @@
+Currently, all the work and codes generated in my lab is maintained on Box. I think that almost everything will be reproducible in this lab because everyone in the lab can easily access all the data and codes needed. 
+Non-reproducible research affects computational biology and bioinformatics because the data generated from the experiments are invalid and may not make any sense. One of the biggest things that I have learned using information and computational bio, you can make a code/script and generate data, but if the parameters you set are non existent, so is the data you think you are generating. 
+In my current field of genetics, it is imperative that all the data is reproducible. 

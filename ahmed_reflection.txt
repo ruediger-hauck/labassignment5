@@ -1,0 +1,8 @@
+Currently, I only store my code in the form of .history files from the projects. I dont think this would pass the reproducibility test in many circumstances. I do not indicate where files go and 
+what type of file they are. This coupled with the redundancy of my code makes it tedious to store or present.
+Using git looks like it would be very beneficial in that regard. 
+Non-reproducible research is difficult to use as support to a claim 
+because peers cannot verify its reliability. I'm studying pre-dentistry 
+and I know that research needs to be reproducible in order to 
+effectively treat patients. Even non-reproducible code can lead to 
+mistakes in treatment plans and billing.
